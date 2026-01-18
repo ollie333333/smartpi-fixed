@@ -1,0 +1,2 @@
+numpy
+# tflite-runtime  # Optional on Raspberry Pi if you want TF Lite
